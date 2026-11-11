@@ -1,0 +1,116 @@
+{
+  "albumName": "Быть Игрушкой",
+  "artist": "Витрина Разбита",
+  "albumYear": 2026,
+  "background": "img/bg.jpg",
+  "promoCode": "VITRINA2025",
+  "donateLink": "https://yoomoney.ru/to/ВАШ_СЧЁТ_ЯНДЕКС",
+  "socials": [
+    {"title": "YouTube", "url": "https://www.youtube.com/channel/UCbjm1J0V8RkWvNj4Z8-JIhA/"},
+    {"title": "Telegram", "url": "https://t.me/vitrina_razbita"},
+    {"title": "VK", "url": "https://vk.com/apelsinov"},
+    {"title": "TikTok", "url": "https://www.tiktok.com/@vi3na1bita"}
+  ],
+  "tracks": [
+    {
+      "uid": "BI-01",
+      "title": "Облачно",
+      "audio": "audio/01.mp3",
+      "audio_low": "audio_low/01.mp3",
+      "lyrics": "lyrics/01.json",
+      "size": 10.35,
+      "size_low": 6.23,
+      "fulltext": "lyrics/01.txt"
+    },
+    {
+      "uid": "BI-02",
+      "title": "Сотри мою память",
+      "audio": "audio/02.mp3",
+      "audio_low": "audio_low/02.mp3",
+      "lyrics": "lyrics/02.json",
+      "size": 10.60,
+      "size_low": 6.39,
+      "fulltext": "lyrics/02.txt"
+    },
+    {
+      "uid": "BI-03",
+      "title": "Быть игрушкой",
+      "audio": "audio/03.mp3",
+      "audio_low": "audio_low/03.mp3",
+      "lyrics": "lyrics/03.json",
+      "size": 11.37,
+      "size_low": 6.85,
+      "fulltext": "lyrics/03.txt"
+    },
+    {
+      "uid": "BI-04",
+      "title": "Стул",
+      "audio": "audio/04.mp3",
+      "audio_low": "audio_low/04.mp3",
+      "lyrics": "lyrics/04.json",
+      "size": 10.13,
+      "size_low": 6.10,
+      "fulltext": "lyrics/04.txt"
+    },
+    {
+      "uid": "BI-05",
+      "title": "Я же свечку не держал",
+      "audio": "audio/05.mp3",
+      "audio_low": "audio_low/05.mp3",
+      "lyrics": "lyrics/05.json",
+      "size": 9.02,
+      "size_low": 5.44,
+      "fulltext": "lyrics/05.txt"
+    },
+    {
+      "uid": "BI-06",
+      "title": "Камень, ножницы, бумага",
+      "audio": "audio/06.mp3",
+      "audio_low": "audio_low/06.mp3",
+      "lyrics": "lyrics/06.json",
+      "size": 11.18,
+      "size_low": 6.73,
+      "fulltext": "lyrics/06.txt"
+    },
+    {
+      "uid": "BI-07",
+      "title": "Не о чём",
+      "audio": "audio/07.mp3",
+      "audio_low": "audio_low/07.mp3",
+      "lyrics": "lyrics/07.json",
+      "size": 6.94,
+      "size_low": 4.19,
+      "fulltext": "lyrics/07.txt"
+    },
+    {
+      "uid": "BI-08",
+      "title": "Удача против неудачи",
+      "audio": "audio/08.mp3",
+      "audio_low": "audio_low/08.mp3",
+      "lyrics": "lyrics/08.json",
+      "size": 13.38,
+      "size_low": 8.06,
+      "fulltext": "lyrics/08.txt"
+    },
+    {
+      "uid": "BI-09",
+      "title": "Баю-бай",
+      "audio": "audio/09.mp3",
+      "audio_low": "audio_low/09.mp3",
+      "lyrics": "lyrics/09.json",
+      "size": 9.59,
+      "size_low": 5.78,
+      "fulltext": "lyrics/09.txt"
+    },
+    {
+      "uid": "BI-10",
+      "title": "Не порть нам игру",
+      "audio": "audio/10.mp3",
+      "audio_low": "audio_low/10.mp3",
+      "lyrics": "lyrics/10.json",
+      "size": 11.78,
+      "size_low": 7.09,
+      "fulltext": "lyrics/10.txt"
+    }
+  ]
+}
